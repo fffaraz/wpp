@@ -1,5 +1,6 @@
 #include <dirent.h>
 #include <netinet/in.h>
+#include <sys/socket.h>
 #include <sys/stat.h>
 #include <limits.h>
 #include <stdlib.h>
