@@ -8,7 +8,7 @@
 #include <iostream>
 #include <map>
 
-#include "web++.hpp"
+#include "wpp.hpp"
 
 using namespace WPP;
 
